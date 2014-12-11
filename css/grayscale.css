@@ -262,12 +262,6 @@ a:focus {
     -o-background-size: cover;
 }
 
-#map {
-    width: 100%;
-    height: 200px;
-    margin-top: 100px;
-}
-
 @media(min-width:767px) {
     .content-section {
         padding-top: 250px;
@@ -357,6 +351,11 @@ body {
 }
 
 img#getfit {
+    width: 400px;
+    height: 300px;
+}
+
+img#eventalist {
     width: 400px;
     height: 300px;
 }
