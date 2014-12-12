@@ -385,3 +385,20 @@ footer {
     font-size: 16px;
     margin-right: 35px;
 }
+
+#frontend {
+    margin-right: 800px;
+    z-index: 3000;
+    position: absolute;
+}
+
+#backend {
+    margin-left: 1px;
+    margin-top: -30px;
+}
+
+#other {
+    margin-left: 600px;
+    margin-top: -160px;
+}
+
