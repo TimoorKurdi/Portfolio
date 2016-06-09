@@ -138,7 +138,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-color: black;
+    background-color: #2e343d;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -249,7 +249,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    background-color: #2e343d;
+    background-color: black;
     width: 100%;
 }
 
@@ -362,14 +362,24 @@ img#eventalist {
     height: 300px;
 }
 
-#skills {
-    background-color: black;
-    width: 100%;
-    height: 100%;
+img#k10plus {
+    width: 405px;
+    height: 325px;
 }
 
-ul {
-    list-style-type: none;
+img#abgllaw {
+    width: 405px;
+    height: 325px;
+}
+
+img#leadserve {
+    width: 400px;
+    height: 300px;
+}
+
+img#leadservetwo {
+    width: 400px;
+    height: 300px;
 }
 
 #contact {
@@ -380,25 +390,3 @@ ul {
 footer {
     background-color: black;
 }
-
-.skillsli {
-    font-size: 20px;
-    margin-right: 35px;
-}
-
-#frontend {
-    margin-right: 800px;
-    z-index: 3000;
-    position: absolute;
-}
-
-#backend {
-    margin-left: 1px;
-    margin-top: -25px;
-}
-
-#other {
-    margin-left: 600px;
-    margin-top: -285px;
-}
-
